@@ -9,9 +9,7 @@
 
 <h3 align="left">Something about me:</h3>
     
-Hey, what are you searching for? Welcome to my GitHub! **I'm Nam and I hope you find something useful here.** If you want to find out more about me, check out my introduction document by <a href=https://github.com/VHNam1507/VHNam1507/blob/master/About_me.md>***clicking here***</a>. If not, no worries, just dive into this poor man's GitHub and see what you can find.
-
-Have a nice day!
+- Welcome to my GitHub! **I'm Nam and I hope you find something useful here.** If you want to find out more about me, check out my introduction by <a href=https://github.com/VHNam1507/VHNam1507/blob/master/ABOUTME.md>***clicking here***</a>. If not, no worries, just dive into this poor man's GitHub and see what you can find. Have a nice day!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
