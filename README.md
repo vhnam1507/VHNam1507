@@ -1,7 +1,6 @@
 <h1 align="center">Hi there👋, I'm Vũ Hoàng Nam! Just call me Nam</h1>
 <h2 align="center">WELCOME</h2>
 
-**<p align="left"> <img src="https://komarev.com/ghpvc/?username=vhnam1507&label=Profile%20views&color=0e75b6&style=flat" alt="vhnam1507" /> </p>**
 - 🔭 I’m currently a student of *Information and Technology* at **The University of Transport in HCMC**
 
 - 📧 Wanna contact me? **vhoangnam1507@gmail.com**
