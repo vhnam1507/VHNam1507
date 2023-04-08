@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Vũ Hoàng Nam! Just call me Nam</h1>
+<h1 align="center">Hi there👋, I'm Nam</h1>
 <h2 align="center">WELCOME</h2>
 
 - 🔭 I’m currently a student of *Information and Technology* at **The University of Transport in HCMC**
