@@ -2,9 +2,14 @@
 
 <h2 align="center">Thanks for taking the time to visit my GitHub!</h2>
 
+
+
+
 - 🔭 I’m currently a student of *Information and Technology* at **The University of Transport in HCMC**
 
 - 📧 You can contact me via email: **vhoangnam1507@gmail.com**
+
+<img align="right" src="https://raw.githubusercontent.com/VHNam1507/VHNam1507/master/img/GIF/croko.gif" width="100" height="100" />
 
 <br>
 <details>
