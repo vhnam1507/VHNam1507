@@ -9,7 +9,7 @@
 <br>
 <details>
 
-**<summary> Something about me </summary>**
+**<summary> ✍ Something about me </summary>**
 
 - Welcome to my GitHub! **I'm Nam and I hope you find something useful here.** If you want to find out more about me, check out my introduction by <a href=https://github.com/VHNam1507/VHNam1507/blob/master/ABOUTME.md>***clicking here***</a>. If not, no worries, just dive into this poor man's GitHub and see what you can find. Have a nice day!
 
@@ -17,7 +17,7 @@
 
 <details>
 
-**<summary> Connect with me </summary>**
+**<summary> 💬 Connect with me </summary>**
 
 <p align="left">
 <a href="https://www.linkedin.com/in/vhnam1507/" target="blank"><img align="center" src="https://raw.githubusercontent.com/VHNam1507/VHNam1507/master/img/icons/Social/linked-in-alt.svg" alt="vhnam1507" height="30" width="40" /> LinkedIn </a>
