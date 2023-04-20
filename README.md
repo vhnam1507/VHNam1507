@@ -28,7 +28,6 @@
 <a href="https://www.linkedin.com/in/vhnam1507/" target="blank"><img align="center" src="https://raw.githubusercontent.com/VHNam1507/VHNam1507/master/img/icons/Social/linked-in-alt.svg" alt="vhnam1507" height="30" width="40" /> LinkedIn </a>
 <a href="https://facebook.com/vhnam1507" target="blank"><img align="center" src="https://raw.githubusercontent.com/VHNam1507/VHNam1507/master/img/icons/Social/facebook.svg" alt="vhnam1507" height="30" width="40" /> Facebook </a>
 <a href="https://instagram.com/vhnam1507" target="blank"><img align="center" src="https://raw.githubusercontent.com/VHNam1507/VHNam1507/master/img/icons/Social/instagram.svg" alt="vhnam1507" height="30" width="40" /> Instagram </a>
-<a href="https://www.youtube.com/c/namsensei" target="blank"><img align="center" src="https://raw.githubusercontent.com/VHNam1507/VHNam1507/master/img/icons/Social/youtube.svg" alt="namsensei" height="30" width="40" /> Youtube </a>
 
 </p>
 
