@@ -35,7 +35,7 @@
 
 <br>
 
-<a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/VHNam1507/VHNam1507/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/VHNam1507/VHNam1507/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<a>
+<img src="https://github.com/VHNam1507/VHNam1507/blob/master/generated/overview.svg#gh-dark-mode-only"/>
+<img src="https://github.com/VHNam1507/VHNam1507/blob/master/generated/languages.svg#gh-dark-mode-only"/>
 </a>
