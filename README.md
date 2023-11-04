@@ -24,7 +24,7 @@
 
 **<summary> 💬 Connect with me </summary>**
 
-<p align="left">
+<p align="center">
 <a style="font-weight: bold; margin-top: 30px" href="https://www.linkedin.com/in/vhnam1507/" target="blank"><img align="center" src="https://raw.githubusercontent.com/VHNam1507/VHNam1507/master/img/icons/Social/linked-in-alt.svg" alt="vhnam1507" height="30" width="40" /> LinkedIn </a>
 <a style="margin-left: 20px; font-weight: bold; margin-top: 30px" href="https://facebook.com/vhnam1507" target="blank"><img align="center" src="https://raw.githubusercontent.com/VHNam1507/VHNam1507/master/img/icons/Social/facebook.svg" alt="vhnam1507" height="30" width="40" /> Facebook </a>
 <a style="margin-left: 20px; font-weight: bold; margin-top: 30px" href="https://instagram.com/vhnam1507" target="blank"><img align="center" src="https://raw.githubusercontent.com/VHNam1507/VHNam1507/master/img/icons/Social/instagram.svg" alt="vhnam1507" height="30" width="40" /> Instagram </a>
