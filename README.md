@@ -9,8 +9,6 @@
 
 - 📧 You can contact me via email: **vhoangnam1507@gmail.com**
 
-<img align="right" src="https://raw.githubusercontent.com/VHNam1507/VHNam1507/master/img/GIF/croko.gif" width="100" height="100" />
-
 
 <br>
 <details>
